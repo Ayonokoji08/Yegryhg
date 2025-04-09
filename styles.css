@@ -1,0 +1,71 @@
+body {
+    background-color: #2c3e50;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: #34495e;
+    padding: 10px;
+}
+
+h1 {
+    color: #f39c12;
+}
+
+#workout-section {
+    margin-top: 20px;
+    background-color: #34495e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+#goal-setting {
+    margin-top: 20px;
+}
+
+#goal-input {
+    padding: 10px;
+    font-size: 18px;
+    width: 60%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #f39c12;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e67e22;
+}
+
+#motivation-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #2c3e50;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    color: #f39c12;
+    font-size: 18px;
+}
